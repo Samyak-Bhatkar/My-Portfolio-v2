@@ -252,7 +252,7 @@ export const PROJECTS: Project[] = [
     bgGradient: 'linear-gradient(135deg, #F5F0FF 0%, #E9DEFF 100%)',
     dotColor: 'rgba(124, 58, 237, 0.45)',
     textColor: '#5B21B6',
-    image: '/projects/chitrapat.jpg?v=2',
+    image: '/projects/chitrapat.png',
   },
   {
     n: '02',

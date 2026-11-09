@@ -1375,7 +1375,7 @@ export default function App() {
             <div className="about-bio-col">
               <p className="big" id="bigp">
                 {'I turn raw intelligence into interfaces people actually feel.'.split(' ').map((w, idx) => (
-                  <span key={idx}>{w}{' '}</span>
+                  <span key={idx}>{w}</span>
                 ))}
               </p>
               <p className="about-subtext">

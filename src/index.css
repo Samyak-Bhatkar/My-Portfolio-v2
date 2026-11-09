@@ -505,8 +505,13 @@ a.roll:hover i {
 
 .big span {
   display: inline-block;
+  margin-right: 0.28em;
   opacity: 1;
   will-change: transform, opacity, filter;
+}
+
+.big span:last-child {
+  margin-right: 0;
 }
 
 .two {
